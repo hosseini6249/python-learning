@@ -28,3 +28,6 @@ This repository documents my journey of learning Python, including notes, exampl
 ---
 
 More content will be added as I progress.
+## Learning Log
+
+This repository documents my Python learning journey as preparation for research in cryptography, quantum computing, and FPGA-based implementations.
