@@ -48,3 +48,15 @@ During this project I practiced:
 - Database support (SQLite)
 - Graphical User Interface
 - Unit tests
+
+## Version
+
+Current version: **v1.0**
+## Next Version
+
+Planned improvements:
+
+- Rewrite using Object-Oriented Programming (OOP)
+- Better project structure
+- SQLite database support
+- Unit tests
