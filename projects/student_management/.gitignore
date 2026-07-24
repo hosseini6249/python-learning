@@ -1,0 +1,6 @@
+# Runtime data
+students.json
+
+# Python cache
+__pycache__/
+*.py[cod]
